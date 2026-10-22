@@ -1,0 +1,10 @@
+{
+  "exchange": "BINANCE",
+  "market": "USDT-M perpetual futures",
+  "symbol": "XNYUSDT",
+  "price_type": "last_trade",
+  "price": "0.0054240",
+  "exchange_time_ms": 1792691115089,
+  "collected_at_utc": "2026-10-22T17:45:29.549763Z",
+  "source": "https://fapi.binance.com/fapi/v1/ticker/price?symbol=XNYUSDT"
+}
